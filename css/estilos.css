@@ -1,0 +1,28 @@
+html, body, #mapid { 
+  height: 100%;
+  width: 100%;
+}
+
+.estiloIconos{
+  color:  #0d98f8;
+}
+
+.estiloIconos2{
+  color:  red;
+}
+
+p {
+    font-family:Cambria;
+	
+}
+
+h1 {
+	color:black;
+    
+}
+
+body  {
+	background-color:white;
+	font-size: 15px;
+    
+}
